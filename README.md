@@ -1,3 +1,4 @@
 # pageCV
 
-![image](https://github.com/EMACodex/pageCV/assets/150074240/1435ad0f-54f2-40c3-a6d0-f09c6f764e60)
+![Captura de pantalla 2024-05-03 131944](https://github.com/EMACodex/pageCV/assets/150074240/1e0fd3fc-ea1e-4512-92b5-835b4e63812b)
+
